@@ -1,0 +1,19 @@
+{
+    "text_properties": {
+        "font": "Lalo",
+        "small_fontsize": 12,
+        "med_fontsize": 18,
+        "large_fontsize": 22,
+        "darkmode_color": "#ffffff",
+        "lightmode_color": "#000000"
+    },
+
+    "button_properties": {
+        "menubutton_color": "#fc7703"
+    },
+
+    "bg": {
+        "darkmode": "#474544",
+        "lightmode": "#f0f0f0"
+    }
+}
